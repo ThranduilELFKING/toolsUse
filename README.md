@@ -5,3 +5,6 @@ getMaxPthread
 
 ## linux下C++执行shell命令并获取输出
 execShellCmd
+
+## linux下c函数getopt函数的简单示例
+getOpt
