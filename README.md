@@ -11,3 +11,6 @@ getOpt
 
 ## sysconf函数的使用
 sysconfig
+
+## linux下线程与CPU核绑定
+affinity
