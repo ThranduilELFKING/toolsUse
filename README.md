@@ -8,3 +8,6 @@ execShellCmd
 
 ## linux下c函数getopt函数的简单示例
 getOpt
+
+## sysconf函数的使用
+sysconfig
